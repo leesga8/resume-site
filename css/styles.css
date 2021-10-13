@@ -1,0 +1,27 @@
+body {
+  background-color:#f4ce9a;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  color: #121e60;
+  text-decoration: underline;
+}
+
+h2 {
+  color: #155e8f;
+  text-decoration: underline;
+}
+
+li {
+  margin: auto;
+  width: 20%;
+  padding: 1em;
+}
+
+.color1 {}
+.color2 {color: #f4ce9a;}
+.color3 {color: #121e60;}
+.color4 {color: #155e8f;}
+.color5 {color: #1da5c4;}
